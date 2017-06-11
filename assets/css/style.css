@@ -160,10 +160,10 @@
     #grumpy span {
         color: #1c5b44;
     }
-    /*RESPONSIVE*/
+    /*RESPONSIVE
     
     @media only screen and (min-width: 681px) {
-        /* 960px */
+        /* 960px 
         .navbar-brand {
             font-size: 12px;
         }
@@ -212,4 +212,4 @@
             margin-right: 22%;
             width: 183%;
         }
-    }
+    }*/
