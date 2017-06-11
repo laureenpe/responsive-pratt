@@ -75,3 +75,32 @@ body {
 .features h5 {
     color: #8bccb6;
 }
+
+
+/*SCREENSHOTS*/
+
+.screenshots {
+    background-color: #34495e;
+}
+
+.screenshots h1 {
+    color: #f7feff;
+    text-align: center;
+    margin-top: 15%;
+}
+
+.screenshots img {
+    margin-left: 20%;
+    display: block;
+    height: auto;
+    max-width: 100%;
+    line-height: 1;
+}
+
+
+/*FOOTER*/
+
+footer {
+    background-color: #2f2f2f;
+    color: white;
+}
