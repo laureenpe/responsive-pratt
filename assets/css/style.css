@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    background-color: #34495e;
+}
+
+
+/*NAVBAR*/
+
+.navbar>.container .navbar-brand,
+.navbar>.container-fluid .navbar-brand {
+    margin-left: 138%;
+}
+
+
+/*WELCOME*/
+
+.welcome {
+    text-align: center;
+    background-color: #34495e;
+    color: white;
+    margin-top: 0;
+}
+
+.welcome h4 {
+    padding-bottom: 20px;
+}
+
+
+/*DESIGNED TO EXCEL*/
+
+.excel {
+    background-color: #f2f2f2;
+    margin-top: 10px;
+}
+
+.excel h1 {
+    color: #303030;
+    text-align: center;
+    padding-bottom: 37px;
+}
+
+.align-center {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.container-pictures {
+    border-bottom: solid #bec3c6;
+    color: #787878;
+}
+
+
+/*Whats New*/
+
+.whats-new {
+    padding-top: 20px;
+}
+
+.whats-new h3 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.phone img {
+    width: 60%;
+    padding-right: 20px;
+    margin-left: 84px;
+}
+
+.features h5 {
+    color: #8bccb6;
+}
