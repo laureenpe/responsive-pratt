@@ -28,6 +28,16 @@ body {
 
 .welcome h4 {
     padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.welcome h1 {
+    margin-top: 7%;
+    margin-bottom: 0;
+}
+
+.welcome img {
+    width: 56%;
 }
 
 
@@ -64,6 +74,7 @@ body {
 .whats-new h3 {
     text-align: center;
     padding-top: 50px;
+    font-size: 34px;
 }
 
 .phone img {
@@ -74,6 +85,20 @@ body {
 
 .features h5 {
     color: #8bccb6;
+    font-size: 18px;
+}
+
+.retina {
+    padding-bottom: 30px;
+    font-size: 18px;
+}
+
+.some {
+    margin-bottom: 50px;
+}
+
+.survived {
+    padding-bottom: 46px;
 }
 
 
@@ -86,15 +111,18 @@ body {
 .screenshots h1 {
     color: #f7feff;
     text-align: center;
-    margin-top: 15%;
+    margin-top: 8%;
+    margin-bottom: 8%;
 }
 
 .screenshots img {
-    margin-left: 20%;
+    margin-left: 26%;
     display: block;
     height: auto;
     max-width: 100%;
     line-height: 1;
+    width: 50%;
+    margin-bottom: 10%;
 }
 
 
@@ -103,4 +131,54 @@ body {
 footer {
     background-color: #2f2f2f;
     color: white;
+    width: 100%;
+}
+
+.navbar-form .form-control {
+    width: 296%;
+}
+
+label {
+    margin-bottom: 16px;
+    margin-top: 19px;
+}
+
+.btn-default {
+    margin-top: 20px;
+    background-color: #63b662;
+    border: none;
+    color: white;
+}
+
+.grumpy {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0;
+    color: white;
+}
+
+.container-grumpy {
+    margin-left: -6%;
+    margin-right: -6%;
+    background-color: black;
+}
+
+#grumpy h6 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 15px;
+}
+
+#grumpy span {
+    color: #1c5b44;
+}
+
+
+/*RESPONSIVE*/
+
+@media only screen and (min-width: 599px) {
+    /* 960px */
+    .navbar-brand {
+        font-size: 12px;
+    }
 }
