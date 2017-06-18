@@ -8,11 +8,7 @@
         background-color: #34495e;
     }
     /*NAVBAR*/
-    
-    .navbar>.container .navbar-brand,
-    .navbar>.container-fluid .navbar-brand {
-        margin-left: 138%;
-    }
+   
     /*WELCOME*/
     
     .welcome {
@@ -113,6 +109,10 @@
         line-height: 1;
         width: 50%;
         margin-bottom: 10%;
+    }
+    /*CAROUSEL*/
+    .principal{
+        margin-left: 18%;
     }
     /*FOOTER*/
     
